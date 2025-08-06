@@ -4,7 +4,7 @@ Key Features:
 
 Content-based filtering using similarity measures (e.g., cosine similarity)
 
-Movie recommendations based on genre, keywords, and user preferences
+Movie recommendations based on keywords ,popularity and mostly watch movies. 
 
 Built with scikit-learn, pandas, and NumPy for data processing and model building
 
