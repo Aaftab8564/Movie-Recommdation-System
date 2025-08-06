@@ -14,4 +14,11 @@ Cleaned and preprocessed data to enhance recommendation accuracy
 
 Tech Stack: Python, scikit-learn, pandas, NumPy, Streamlit
 Screenshorts: 
-![image alt](https://github.com/Aaftab8564/Movie-Recommdation-System/tree/d7ae39dce920c2a810770071899e3b85df69818a/Images)
+![image alt](https://github.com/Aaftab8564/Movie-Recommdation-System/blob/d7ae39dce920c2a810770071899e3b85df69818a/Images/Image2.png)
+
+![image alt](https://github.com/Aaftab8564/Movie-Recommdation-System/blob/d7ae39dce920c2a810770071899e3b85df69818a/Images/Image3.png)
+
+![image alt](https://github.com/Aaftab8564/Movie-Recommdation-System/blob/d7ae39dce920c2a810770071899e3b85df69818a/Images/Image4.png)
+
+![image alt](https://github.com/Aaftab8564/Movie-Recommdation-System/blob/d7ae39dce920c2a810770071899e3b85df69818a/Images/Image1.png)
+
