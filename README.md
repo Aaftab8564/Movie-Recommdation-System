@@ -31,6 +31,11 @@ In CMD
 - **NumPy**
 - **Streamlit**
 
+<<<<<<< HEAD
+=======
+How to run:
+run in cmd -> pip install -r requirements.txt then streamlit run app.py
+>>>>>>> e5d4aea0fd354f459c14f4134aa00979fd2213a2
 
 
 Screenshorts: 
