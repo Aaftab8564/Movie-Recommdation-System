@@ -1,21 +1,36 @@
-A content-based Movie Recommendation System developed using Python and machine learning techniques. The system suggests movies to users based on their watched history, preferences, and ratings by analyzing genres, keywords, and other metadata.
+# 🎬 Movie Recommendation System
 
-Key Features:
+A **content-based movie recommender** system built using Python and machine learning. It suggests movies based on a user's preferences, watched history, and similarity of movie metadata like genres, keywords, and popularity.
 
-Content-based filtering using similarity measures (e.g., cosine similarity)
+---
 
-Movie recommendations based on keywords ,popularity and mostly watch movies. 
+## ✨ Key Features
 
-Built with scikit-learn, pandas, and NumPy for data processing and model building
+- 📌 **Content-Based Filtering** using cosine similarity
+- 🎯 Recommends movies based on:
+  - Keywords
+  - Popularity
+  - User watch history
+- ⚙️ Built using **scikit-learn**, **pandas**, and **NumPy**
+- 🧹 Data cleaning and preprocessing for improved accuracy
+- 🌐 Real-time interaction via a **Streamlit** web interface
 
-Simple and intuitive interface using Streamlit for real-time user interaction
+---
+## 🛠️ How to Run
+In CMD
+1. **Clone the repository**
+2. **Install Dependencies** -> pip install -r requirements.txt
+3. **Run the App**-> streamlit run app.py
 
-Cleaned and preprocessed data to enhance recommendation accuracy
 
-Tech Stack: Python, scikit-learn, pandas, NumPy, Streamlit
+## 🛠️ Tech Stack
 
-How to run:
-run in cmd -> pip install requirements.txt then streamlit run app.py
+- **Python**
+- **scikit-learn**
+- **pandas**
+- **NumPy**
+- **Streamlit**
+
 
 
 Screenshorts: 
