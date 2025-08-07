@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System
 
-A **content-based movie recommender** system built using Python and machine learning. It suggests movies based on a user's preferences, watched history, and similarity of movie metadata like genres, keywords, and popularity.
+A **content-based movie recommender** system built using Python and machine learning. It suggests movies based on a user's similarity, latest, and tags of movie metadata like genres, keywords, and popularity.
 
 ---
 
