@@ -15,7 +15,6 @@ A **content-based movie recommender** system built using Python and machine lear
 - 🧹 Data cleaning and preprocessing for improved accuracy
 - 🌐 Real-time interaction via a **Streamlit** web interface
 
----
 ## 🛠️ How to Run
 In CMD
 1. **Clone the repository**
@@ -30,13 +29,6 @@ In CMD
 - **pandas**
 - **NumPy**
 - **Streamlit**
-
-<<<<<<< HEAD
-=======
-How to run:
-run in cmd -> pip install -r requirements.txt then streamlit run app.py
->>>>>>> e5d4aea0fd354f459c14f4134aa00979fd2213a2
-
 
 Screenshorts: 
 ![image alt](https://github.com/Aaftab8564/Movie-Recommdation-System/blob/d7ae39dce920c2a810770071899e3b85df69818a/Images/Image2.png)
