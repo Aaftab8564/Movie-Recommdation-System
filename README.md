@@ -15,7 +15,7 @@ Cleaned and preprocessed data to enhance recommendation accuracy
 Tech Stack: Python, scikit-learn, pandas, NumPy, Streamlit
 
 How to run:
-run in cmd -> pip install requirements.txt then streamlit run app.py
+run in cmd -> pip install -r requirements.txt then streamlit run app.py
 
 
 Screenshorts: 
